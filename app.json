@@ -1,0 +1,12 @@
+{
+  "name": "ExpoAdmobTest",
+  "displayName": "ExpoAdmobTest",
+  "expo": {
+    "name": "ExpoAdmobTest",
+    "slug": "ExpoAdmobTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
