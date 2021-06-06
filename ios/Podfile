@@ -10,6 +10,10 @@ target 'ExpoAdmobTest' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'Google-Mobile-Ads-SDK'
+  pod 'GoogleMobileAdsMediationFacebook'
+  pod 'FBAudienceNetwork'
+
   # Uncomment to opt-in to using Flipper
   #
   # if !ENV['CI']
